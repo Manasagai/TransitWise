@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_contact_email,feed_contact_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Open Data Telangana,https://data.telangana.gov.in/,,,en,20260201,20310201,20260201

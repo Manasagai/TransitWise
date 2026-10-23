@@ -1,0 +1,1 @@
+The real TGSRTC GTFS data is not included in this package. Put extracted GTFS .txt files in this folder's tgsrtc_gtfs subfolder and add the verified source metadata file named tgsrtc_gtfs_source.json in this data folder. See ../README_FIRST.txt.

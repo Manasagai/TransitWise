@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+TGSRTC,Telangana State Road Transport Corporation,https://tgsrtc.telangana.gov.in/,Asia/Kolkata,en
